@@ -23,7 +23,7 @@ Obtain your API key from the OpenAI dashboard.
 Set your OpenAI API key as an environment variable:
 export OPENAI_API_KEY='openai_api_key'.
 
-3.Extract the information form the url.
+3.Extract the information from the url.
 
 4.perform the retrival using open ai.
 
