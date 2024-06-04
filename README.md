@@ -1,19 +1,19 @@
 # Retrieval-Augmented Generation (RAG)
 
-Overview
+## Overview
 This project demonstrates how to build a Retrieval-Augmented Generation (RAG) chatbot using OpenAI's API for generation and LangChain for managing text processing and retrieval.
 
-Features
+## Features 
 OpenAI API: Utilizes OpenAI's powerful language models for text generation.
 LangChain: Manages text splitting, embeddings, and retrieval operations.
 RAG Approach: Combines retrieval of relevant information with generation of responses for enhanced chatbot capabilities.
 
-Requirements
+## Requirements
 Python 3.7+
 Installation of required libraries:
 pip install openai langchain
 
-Setup
+## Setup
 
 1. Get OpenAI API Key
 Sign up for OpenAI API access at OpenAI API.
@@ -27,7 +27,7 @@ export OPENAI_API_KEY='openai_api_key'.
 
 4.perform the retrival using open ai.
 
-Example Interaction
+## Example Interaction
 Enter a query or question.
 The chatbot will retrieve relevant information using LangChain's retrieval capabilities.
 OpenAI will generate a response based on the retrieved information and the query.
