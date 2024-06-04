@@ -1,4 +1,4 @@
-Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 
 Overview
 This project demonstrates how to build a Retrieval-Augmented Generation (RAG) chatbot using OpenAI's API for generation and LangChain for managing text processing and retrieval.
